@@ -1,4 +1,4 @@
-# PyCaret Portfolio (Starter Structure)
+# PyCaret Portfolio
 
 This repository contains PyCaret notebooks for for different usecases. The notebooks were executed in windows (Jupyter).
 
@@ -15,5 +15,5 @@ This repository contains PyCaret notebooks for for different usecases. The noteb
 - `anomaly/` – Anomaly detection
 - `association_rules_pycaret235/` – Association rules (separate env - PyCaret **2.3.5**)
 - `time_series/` – Time series (univariate ± exogenous)
-- `gradio_demos/` – Two simple Gradio app starters
+- `gradio_demos/` – Gradio apps
 
